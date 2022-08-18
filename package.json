@@ -16,8 +16,5 @@
   "bugs": {
     "url": "https://github.com/EpicSanBeats/Game-San-X-B-62/issues"
   },
-  "homepage": "https://github.com/EpicSanBeats/Game-San-X-B-62#readme",
-  "dependencies": {
-    "bootstrap": "^5.2.0-beta1"
-  }
+  "homepage": "https://github.com/EpicSanBeats/Game-San-X-B-62#readme"
 }
