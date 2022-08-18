@@ -10722,5 +10722,8 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+body {
+  background-color: #222222;
+}
 
 /*# sourceMappingURL=style.css.map */
